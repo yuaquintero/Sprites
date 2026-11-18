@@ -2,7 +2,7 @@
 
 Repositorio oficial del tutorial guiado y código fuente de referencia para el curso de **Programación Orientada a Objetos**. 
  [Ver Tutorial](Guia_Creacion_Sprites.pdf)
-Este proyecto demuestra cómo cargar hojas de sprites (*sprite sheets*), controlar animaciones por estado y gestionar el desplazamiento de cámara en **C# (Windows Forms - .NET 8.0)** utilizando la librería **`Engine2D.dll`**.  [Ir a la librería](./Libreria/Engine2D.dll)
+Este proyecto demuestra cómo cargar hojas de sprites (*sprite sheets*), controlar animaciones por estado y gestionar el desplazamiento de cámara en **C# (Windows Forms - .NET 8.0)** utilizando la librería **`Engine2D.dll`**.  [Ir a la librería](./Libreria-grafica/Engine2D.dll)
 
 ---
 
