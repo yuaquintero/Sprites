@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\resources\\explorador.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:resources\\explorador.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\resources\\coordenadasmonedasl1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:resources\\coordenadasmonedasl1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\explorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:explorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|C:\\Users\\usuario\\source\\repos\\SpriteDemo\\escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:escenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|c:\\users\\usuario\\source\\repos\\spritedemo\\spritedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A77C1901-8725-3C90-64B1-0E951AAF62A2}|SpriteDemo.csproj|solutionrelative:spritedemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escenario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Escenario.cs",
+              "RelativeDocumentMoniker": "Escenario.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Escenario.cs",
+              "RelativeToolTip": "Escenario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T04:00:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Moneda.cs",
+              "RelativeDocumentMoniker": "Moneda.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Moneda.cs",
+              "RelativeToolTip": "Moneda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T22:59:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoordenadasMonedasL1.txt",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Resources\\CoordenadasMonedasL1.txt",
+              "RelativeDocumentMoniker": "Resources\\CoordenadasMonedasL1.txt",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Resources\\CoordenadasMonedasL1.txt",
+              "RelativeToolTip": "Resources\\CoordenadasMonedasL1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-17T23:04:43.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Explorador.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Explorador.cs",
+              "RelativeDocumentMoniker": "Explorador.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Explorador.cs",
+              "RelativeToolTip": "Explorador.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T22:57:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "explorador.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [400x558, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Resources\\explorador.png",
+              "RelativeDocumentMoniker": "Resources\\explorador.png",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Resources\\explorador.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [400x558, 32 bits, PNG]",
+              "RelativeToolTip": "Resources\\explorador.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [400x558, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-11-17T20:34:21.526Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [400x558, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Escenario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Escenario.cs",
+              "RelativeDocumentMoniker": "Escenario.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\Escenario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Escenario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T04:18:29.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpriteDemo",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\SpriteDemo.csproj",
+              "RelativeDocumentMoniker": "SpriteDemo.csproj",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\SpriteDemo\\SpriteDemo.csproj",
+              "RelativeToolTip": "SpriteDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T20:38:05.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
